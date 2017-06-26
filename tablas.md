@@ -1,6 +1,5 @@
-
 CodPrograma    | Descripción |CodProgramador
---------------------- | ---------------------
+ --------------------- | ---------------------
 Programa1 | Facturación|123
 Programa2 | Contabilidad|123
 Programa3 | Gestión|123
